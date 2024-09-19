@@ -1,0 +1,2 @@
+Nesta atividade, exercitei os conceitos de Programação Orientada a Objetos (POO), especificamente a implementação de interfaces e o uso de métodos para simular o comportamento de um avião. 
+O objetivo é criar uma interface chamada Avião, que define os métodos necessários para controlar o ciclo de voo de uma aeronave. Em seguida, implementar essa interface em uma classe Jato e Turboélice, onde a lógica de decolagem, aceleração, desaceleração e pouso será aplicada.
